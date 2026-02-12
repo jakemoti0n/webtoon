@@ -11,4 +11,7 @@ Python, Flask, HTML/CSS/JS
 
 3. 화면구성
 
-<img width="1868" height="726" alt="image" src="https://github.com/user-attachments/assets/5f4cb0ba-4785-410b-890c-396ef32184fe" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/5f4cb0ba-4785-410b-890c-396ef32184fe" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/c8e5a3b5-70a3-4a0f-95e6-129de407d0e1" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/c6fdea76-7a78-48f6-9a42-f716d2c61360" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/003dfcd2-6db3-4087-919e-432940fcc78a" />
