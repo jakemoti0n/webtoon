@@ -15,3 +15,7 @@ Python, Flask, HTML/CSS/JS
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/c8e5a3b5-70a3-4a0f-95e6-129de407d0e1" />
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/c6fdea76-7a78-48f6-9a42-f716d2c61360" />
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/003dfcd2-6db3-4087-919e-432940fcc78a" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/7e795111-91d8-47b2-8cba-25f3039b73de" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/056e6cb4-03c7-4b9f-890a-3cdbdddcff95" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/76af3ad0-63a5-4ea5-bc42-c41a92277cd1" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/24697f14-a5f4-4579-b0a1-388e40b45e11" />
