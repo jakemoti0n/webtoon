@@ -19,3 +19,7 @@ Python, Flask, HTML/CSS/JS
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/056e6cb4-03c7-4b9f-890a-3cdbdddcff95" />
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/76af3ad0-63a5-4ea5-bc42-c41a92277cd1" />
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/24697f14-a5f4-4579-b0a1-388e40b45e11" />
+
+4. 책임 파트
+   데이터 크롤링, 데이터 분석, UI/디자인 , html/css/js문서 작성
+
